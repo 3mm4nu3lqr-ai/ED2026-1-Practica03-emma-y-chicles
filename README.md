@@ -25,7 +25,7 @@ En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integra
 + Chablé Alonzo Fernando
     - No. de Cuenta: 32332444-7
 + Quirino Roman Emmanuel
-    -No. de Cuenta: 32303017-3
+    - No. de Cuenta: 32303017-3
 + (No hay tercer integrante)
     - No. de Cuenta: 
 
